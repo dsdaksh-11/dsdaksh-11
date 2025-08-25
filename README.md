@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi there! I'm Daksh Sharma, a 19-year-old Information Technology and Engineering student at Maharaja Agrasen Institute of Technology, Delhi. I'm currently in my second year (fourth semester) and proud to be the university topper in my branch with a CGPA of 9.46.<br><br>🌟 My journey so far:<br><br>🏫 Scored 95% in CBSE 12th boards at Delhi Public School, Dehradun.<br>🏫 Secured 92% in CBSE 10th boards at Pathfinder Global School, Pataudi.<br>🌐 Cracked JEE with an All India Rank of 51511, securing admission to MAIT.<br>🚀 My Skills<br>Frontend Development: HTML, CSS, JavaScript<br>Programming Languages: C, C++, Python (basic)<br>Database Management: MySQL<br>Tools: Visual Studio Code, GitHub<br>🏓 Beyond Code  :<br>🌟 Passionate about problem-solving, AI, and now exploring Cybersecurity.<br>🏆 Played district-level table tennis and cricket.<br>✨ Love completing tasks diligently and effectively.<br>🌱 Currently Learning<br>Cybersecurity (recently started and finding it fascinating!)<br>Advancing web development and exploring backend technologies.
+Hey I'm Daksh Sharma, a 20-year-old Information Technology and Engineering student at Maharaja Agrasen Institute of Technology, Delhi. I'm currently in my third year (fifth semester) and proud to be the university topper in my branch with a CGPA of 9.42.<br><br> My journey so far:<br><br> Scored 95% in CBSE 12th boards at Delhi Public School, Dehradun.<br>🏫 Secured 92% in CBSE 10th boards at Pathfinder Global School, Pataudi.<br>🌐 Cracked JEE with an All India Rank of 51511, securing admission to MAIT.<br>🚀 My Skills<br>Frontend Development: HTML, CSS, JavaScript<br>Programming Languages: C, C++, Python (basic)<br>Database Management: MySQL<br>Tools: Visual Studio Code, GitHub<br>🏓 Beyond Code  :<br>🌟 Passionate about problem-solving, AI, and now exploring Cybersecurity.<br>🏆 Played district-level table tennis and cricket.<br>✨ Love completing tasks diligently and effectively.<br>🌱 Currently Learning<br>Cybersecurity (recently started and finding it fascinating!)<br>Advancing web development and exploring backend technologies.
 
 
 ## 🌐 Socials:
@@ -20,5 +19,3 @@ Hi there! I'm Daksh Sharma, a 19-year-old Information Technology and Engineering
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dsdaksh-11&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
